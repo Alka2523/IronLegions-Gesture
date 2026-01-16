@@ -13,11 +13,11 @@ Communication between sign language users and non-signers remains a major access
 * Depend on **cloud-based inference**, introducing latency and concerning privacy risks
 * Perform poorly in **real-world environments** with background clutter and lighting variations
 * Lack **accessibility tools** such as speech output
-* Are **not scalable**, expensive to deploy, or difficult to integrate
+* Are **not scalable**, expensive to deploy or difficult to integrate
 
 As a result, sign language users are often excluded from seamless communication in web-based systems.
 
-There is a strong need for a **lightweight, real-time, privacy-preserving, and accurate sign language translation system** that runs directly in the browser and works reliably across devices.
+There is a strong need for a **lightweight, real-time, privacy-preserving and accurate sign language translation system** that runs directly in the browser and works reliably across devices.
 
 ---
 
@@ -34,7 +34,7 @@ Instead of relying on cloud APIs or black-box classifiers, Signetic uses a **pos
 * ⚡ **Low latency** via WebGL-accelerated inference
 * ♿ **Accessibility-first** with speech output
 * 🧩 **Can be used by anyone instantly , as it comes with no hardware restrictions and is a fast single page web application
-* ➕ **Added features like Clear all, backspace, and text to speech for more accessibility
+* ➕ **Added features like Clear all, backspace and text to speech for more accessibility
 
 ---
 
@@ -212,11 +212,11 @@ This dual-model design significantly improves **real-world reliability**.
 
 Signetic is deeply built on Google’s Web-ML ecosystem:
 
-* **TensorFlow.js** – Client-side ML inference engine
-* **MediaPipe Hands** – Real-time hand pose estimation
-* **WebGL** – GPU-accelerated computation
-* **WASM (WebAssembly)** – High-performance execution
-* **Web Speech API** – Text-to-Speech accessibility
+* **TensorFlow.js** - Client-side ML inference engine
+* **MediaPipe Hands** - Real-time hand pose estimation
+* **WebGL** - GPU-accelerated computation
+* **WASM (WebAssembly)** - High-performance execution
+* **Web Speech API** - Text-to-Speech accessibility
 
 These technologies enable:
 
@@ -273,7 +273,7 @@ These technologies enable:
 
 ## 🏁 Conclusion
 
-**Signetic** is not just a demo — it is a **production-grade, browser-native computer vision system** that demonstrates how modern ML, accessibility, and web technologies can converge to solve real human problems.
+**Signetic** is not just a demo - it is a **production-grade, browser-native computer vision system** that demonstrates how modern ML, accessibility and web technologies can converge to solve real human problems.
 
 It stands at the intersection of:
 
@@ -285,6 +285,7 @@ It stands at the intersection of:
 ---
 
 > "Accessibility should not be limited by permission, hardware, or compromise — Signetic proves that."
+
 
 
 
